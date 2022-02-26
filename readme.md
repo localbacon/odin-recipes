@@ -9,5 +9,5 @@ it's not a crime to look at publicly available information. Especially if it is
 a vunerability by crappy coding.
 
 Started Colt Steele's Udemy course to get a gist of it and got turned on to TOP
-while reading the r/learnprogramming subreddit.  And here I am!  I havea max
+while reading the r/learnprogramming subreddit.  And here I am!  I have max
 of 4 years left in my current field and am planning ahead for the next adventure.
